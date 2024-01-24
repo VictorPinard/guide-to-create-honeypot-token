@@ -6,3 +6,14 @@ Here is Victor Pinard again, Ethereum smart contract researcher and enthusiast. 
 So today, let me introduce you some useful tips on How to Create Your Own Honeypot Token. Are you ready?
 
 [Only for research and testing, don’t try to scam using this method]
+
+
+Full tutorial on how to create honeypot token on [link]
+
+Full tutorial on how to get users to buy your token on [link]
+
+
+
+Types of Tutorials of Smart Contract Code
+
+-Full tutorial on how to create honeypot token: [link]
