@@ -16,7 +16,7 @@ Full tutorial on how to get users to buy your token on https://tokensourcecode.t
 
 Types of Tutorials of Smart Contract Code
 
--Full tutorial on how to create honeypot token: [ttps://tokensourcecode.top/codes/honeypot_code_1](https://tokensourcecode.top/guides/honeypot_code_1)
+-Full tutorial on how to create honeypot token: [https://tokensourcecode.top/codes/honeypot_code_1](https://tokensourcecode.top/guides/honeypot_code_1)
 
 
 Types of Tokens Code:
@@ -24,6 +24,6 @@ Types of Tokens Code:
 -Original Honeypot Token Code
 
 
-Learn How to Attract People to Buy Your Tokens: [https://www.createyourowntoken.net/post/little-techniques-on-marketing-your-tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
+Learn How to Attract People to Buy Your Tokens: https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
 
-Learn How Much Liquidity You Should Add & What To Do: [https://www.createyourowntoken.net/post/little-techniques-on-marketing-your-tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
+Learn How Much Liquidity You Should Add & What To Do: https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens
